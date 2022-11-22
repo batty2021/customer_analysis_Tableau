@@ -11,7 +11,7 @@ first i cahnged the datatype string into Date datatype inorder to get the revenu
 as we can see in December  had highest revenue followed by April
 
 - revenue based on age:
- between the Age of 30-40 make greate revenue.
+ between the Age of 30-40 make better revenue.
 
 - Quantity - Discount percentage correlation:
 since both colomns[[Discount Percent],[Qty Ordered] are measures i should of change to dimentions so tableau can perform a function
