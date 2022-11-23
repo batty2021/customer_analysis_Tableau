@@ -1,6 +1,8 @@
 # customer_analysis_Tableau
  create a dashboard of customer analysis based on their REVENUE using different types of charts including a butterfly chart, donut chart , a scatterplot and more
 
+
+[Tableu Dashboard Link](https://public.tableau.com/views/CustomerAnalysisbasedontheirREVENUE/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 # DataSources
 unable to upload due to size
 
