@@ -34,7 +34,7 @@ this dona chart shows us South Region had high revenue
 
 
 - revenue per category per Gender:
-this buterfly chart shows female revenue had a bit hiegr than male revenue on Mobaile and Tablet catigory , however they are directly correlated most of thier product revenue.
+this buterfly chart shows us both gender are directly correlated most of thier product revenue.
 ![image](https://user-images.githubusercontent.com/77947860/203605838-6f9999b9-55c1-477d-af34-1ef36590e191.png)
 
 
